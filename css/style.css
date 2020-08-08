@@ -42,7 +42,7 @@ h2 {
 }
 
 a {
-    color: #deb887;
+    color: #168487;
 }
 
 a:hover,
@@ -70,7 +70,7 @@ a:active {
   }
 
   .list-social-icons a:hover {
-      color: #deb887;
+      color: #168487;
   }
 
   .list-social-icons a .fa-lg {
@@ -82,7 +82,7 @@ a:active {
   }
 
   .list-icons .list-inline-item i:hover {
-      color: #deb887;
+      color: #168487;
   }
 
 /*==================================================
@@ -158,26 +158,26 @@ a:active {
 }
 
 .btn-white {
-    border-color: #deb887;
-    background-color: #deb887;
+    border-color: #168487;
+    background-color: #168487;
     color: #fff;
 }
 
 .btn-white:hover,
 .btn-white:focus {
     background-color: transparent;
-    color: #deb887;
+    color: #168487;
     cursor: pointer;
 }
 
 .btn-green {
-    border-color: #deb887;
-    color: #deb887;
+    border-color: #168487;
+    color: #168487;
 }
 
 .btn-green:hover,
 .btn-green:focus {
-    background-color: #deb887;
+    background-color: #168487;
     color: #fff;
     cursor: pointer;
 }
@@ -188,7 +188,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
-      background-color: #deb887;
+      background-color: #168487;
       margin: 0 auto 20px auto;
   }
 
@@ -219,11 +219,11 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #deb887 !important;
+      background-color: #168487 !important;
   }
 
   .text-primary {
-      color: #deb887 !important;
+      color: #168487 !important;
   }
 
 /*==================================================
@@ -286,7 +286,7 @@ a:active {
     color:darkslategrey;
 }
 .portfolio-modal strong{
-    color:#DEB887;
+    color:#168487;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption-port {
@@ -302,7 +302,7 @@ a:active {
 
 #portfolio .portfolio-item .portfolio-link .caption-port:hover {
     opacity: 0.5;
-    background-color: #DEB887;
+    background-color: #168487;
 }
 
 
@@ -439,7 +439,7 @@ a:active {
 }
 
 .skill-item i {
-    color: #deb887;
+    color: #168487;
 }
 
 .skill-item h2 {
@@ -729,7 +729,7 @@ a:active {
 }
 
 .contact-box-desc h3 i{
-  color: #deb887;
+  color: #168487;
 }
 
 .social-icon-f li{
@@ -740,7 +740,7 @@ a:active {
   height: 35px;
   width:35px;
   line-height: 35px;
-  border:2px solid #deb887;
+  border:2px solid #168487;
   text-align: center;
   margin-right: 10px;
   border-radius: 50%;
